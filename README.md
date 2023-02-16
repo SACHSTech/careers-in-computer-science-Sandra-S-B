@@ -1,2 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10147955&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science
+## Careers in Computer Science:
+# Video Game Developer
+A **video game developer** is someone who utilizes code to create video games. Many different careers overlap in game development (art, graphic design, narrative development, computer science). Depending on the preferred career, the responsibilities involved in game development can be vastly different. From a computer science perspective, game development means using programming to create entertaining and interactive games for a variety of consoles and devices. 
+
