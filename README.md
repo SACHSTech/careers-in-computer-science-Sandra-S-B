@@ -52,3 +52,15 @@ For game development jobs involving back-end coding, a bachelor in computer scie
 *Program Length*:
 
 4 Years.
+
+---
+
+## Experiential learning
+
+Although university or college can teach students the techincal skills they'll require in the workplace, there are many lessons that can only be learned through experience! The following are examples of how to gain this experience outside of a typical job.
+
+Examples | About it | In Game Development...
+--- | --- | ---
+Co-op | 
+Social Clubs | 
+Personal Projects
