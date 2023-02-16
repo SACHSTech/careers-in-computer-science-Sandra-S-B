@@ -66,3 +66,39 @@ Social Clubs | Clubs bring people with similar interests and goals together. Whe
 Personal Projects | Personal projects are completely unique and explorative. Without restrictions set by employers or programs, people can use personal projects to explore interests without risk of getting fired or receiving a poor grade. They can provide an excellent opportunity to practice independent or group work, discover new talents and interests, and devote time to an enjoyable activity. | For a career in video game development, personal projects can mean developing your own game! Games can take many forms, and a personal project lets people decide what type of game they may or may not like to make. As well, they give people technical experience that can help them further in their careers. Many video games began as personal projects. For instance, Minecraft was initially created by Markus “Notch” Persson in 2009. He was inspired by Infiniminer and Dwarf Fortress and decided to make his own game.
 
 ---
+
+## Real Jobs
+
+Video game developers can have a variety of positions based on experience, personality, and skills. The following are examples of some of these jobs that companies are offering.
+
+1. **Entry Level**: 
+2. **Mid Level**: Level Designer (Riyo Games)
+3. **Senior Level**: Senior UX/UI Designer (Epic Games)
+
+### Level designer
+> ##### Riyo Games
+*Salary*: 
+
+$63,118 - $79,921
+
+*City*:
+
+Toronto (Remote)
+
+*Job Description*:
+
+“Riyo Games is currently looking for a Level Designer to help us take players behind the waterfall for hidden treasure. Starting from the story beats, you will be responsible for level flow, smoothly getting players from point A to point B, and helping fill out the details that make a game world come to life. If you’re excited by designing and building well paced layouts and working with artists to help make them beautiful for a JRPG, we want to hear from you. There’s lots of world to build and we want you to help us do it.”
+
+*Additional Skills*:
+
+- Experience working on AAA games is considered an advantage
+- Solid technical knowledge of game editors, with a good understanding of scripting
+- Strong communication and interpersonal skills
+- Strong documentation and visualization skills
+- Ability to process, understand and implement feedback
+- Self-motivated, with the ability to prioritize and deliver quality work within deadlines
+
+
+### Senior UX/UI Designer
+> ##### Epic Games
+
