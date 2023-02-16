@@ -35,3 +35,20 @@ For game development jobs involving back-end coding, a bachelor in computer scie
 - 2 additional 4U/M courses
 - Minimum math average of 75%
 - No math grade below 65%
+
+*First Year Courses*:
+- Research Directions in Computing (EECS 1001)
+- Introduction to Computing: A Net-centric Approach (EECS 1012)
+- Applied Linear Algebra (MATH 1025)
+- Introductionn to Statistics I (MATH 1131)
+- Discrete mathematics for Computer Science (EECS 1019)
+- Programming for Mobile Computing (EECS 1022)
+- Differential calculus with Applications (MATH 1300)
+- Integral Calculus with Applications (MATH 1310)
+
+*Other Necessities*:
+- A minimum of 30 course credits gathered during the 4 year program
+
+*Program Length*:
+
+4 Years.
