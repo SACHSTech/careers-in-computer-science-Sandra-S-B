@@ -19,3 +19,19 @@ Game Developers also require a pleathora of skils to fulfill their duties.
 - Strong collaborative skills (knowing how to productively and politely interact with a team)
 
 ---
+
+## Standard Education
+
+For game development jobs involving back-end coding, a bachelor in computer science is commonly required. 
+
+**York University** offers an expansive computer science degree.
+
+*Admission Requirements*:
+- Ontario Secondary School Diploma (OSSD)
+- Grade 12 English (ENG4U)
+- Grade 12 Chemistry or Physics (SCH4U or SPH4U)
+- Advanced Functions (MHF4U)
+- Another 4U Math (MCV4U recommended)
+- 2 additional 4U/M courses
+- Minimum math average of 75%
+- No math grade below 65%
