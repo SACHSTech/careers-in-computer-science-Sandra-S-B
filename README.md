@@ -1,6 +1,12 @@
 ## Careers in Computer Science:
 # Video Game Developer
 
+<br>
+
+![](https://cdnp3.stackassets.com/2c833d74376d62354ef8e100ad04f2185a7707dd/store/7a4a9dc97793a8a550d51e1b1e1812463af606f28651d425d2b589b3bbe6/sale_167082_article_image.jpg)
+
+<br>
+
 A **video game developer** is someone who utilizes code to create video games. Many different careers overlap in game development (art, graphic design, narrative development, computer science). Depending on the preferred career, the responsibilities involved in game development can be vastly different. From a computer science perspective, game development means using programming to create entertaining and interactive games for a variety of consoles and devices. 
 
 Responsibilities can include debugging and optimizing programs, translating game concepts to code using programming languages, and utilizing an understanding of user interface and user experience to enhance the interactivity of video games.
@@ -28,6 +34,11 @@ Game Developers also require a pleathora of skils to fulfill their duties.
 
 ## Standard Education
 
+<br>
+
+![](https://lassonde.yorku.ca/wp-content/uploads/BC-4_0-scaled.jpg)
+
+<br>
 
 For game development jobs involving back-end coding, a bachelor in computer science is commonly required. 
 
@@ -83,6 +94,12 @@ For game development jobs involving back-end coding, a bachelor in computer scie
 
 ## Experiential learning
 
+<br>
+
+![](https://www.grouponeit.com/wp-content/uploads/2022/02/pexels-fauxels-3182773.jpg)
+
+<br>
+
 Although university or college can teach students the techincal skills they'll require in the workplace, there are many lessons that can only be learned through experience! The following are examples of how to gain this experience outside of a typical job.
 
 <br>
@@ -100,6 +117,12 @@ Personal Projects | Personal projects are completely unique and explorative. Wit
 <br>
 
 ## Real Jobs
+
+<br>
+
+![](https://www.thebalancemoney.com/thmb/O5AZT4mYiA8oLU982RKu1hwAXos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-614421992-5bb4b837c9e77c002637a247.jpg)
+
+<br>
 
 Video game developers can have a variety of positions based on experience, personality, and skills. The following are examples of some of these jobs that companies are offering.
 
