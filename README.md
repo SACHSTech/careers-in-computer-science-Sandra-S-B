@@ -210,7 +210,42 @@ As a potential career, video game development appears rather limited for an indi
 <br>
 
 --- 
+
 <br>
+
+## Works Cited
+
+<br>
+
+“Computer Science (BSc, BA, iBSc, iBA) | Electrical Engineering and Computer Science.” Lassonde School of Engineering, https://lassonde.yorku.ca/eecs/academics/undergraduate/future-students/computer-science-bsc-ba-ibsc-iba/. Accessed 18 February 2023.
+
+“Computer Science (BSc) – OUInfo.” Ontario Universities' Info, https://www.ontariouniversitiesinfo.ca/programs/664. Accessed 18 February 2023.
+
+“Computing Students Hub - YU Connect.” Baseline - Campus Labs, https://yorku.campuslabs.ca/engage/organization/cshub. Accessed 18 February 2023.
+
+Georgijevic. 2022, 
+https://www.thebalancemoney.com/job-search-from-work-do-s-and-don-ts-2062153
+
+Group One. 2022, https://www.grouponeit.com/how-to-set-up-laptops-for-employees/.
+
+Hatch Innovations/Epic Games. “Senior UX/UI Designer.” Indeed, 18, https://ca.indeed.com/viewjob?jk=062caca2cadecb8b&q=Video+Game&l=Markham%2C+ON&tk=1gp5kiuc2k6ov801&from=web&advn=5099546768133909&adid=405334650&ad=-6NYlbfkN0DMU9iFguU_9_bt4kwzwKwXyis0ClZ46ztU40qnhw6SG0Os0eqyrd8co910IcfwiXWT4OKRu33184eyDWe2niHe7fDxIdg9BUFQ. Accessed 18 February 2023.
+
+“Homepage - Lassonde Co-op/Internship.” Lassonde School of Engineering, https://lassonde.yorku.ca/co-op/. Accessed 18 February 2023.
+
+IGN. 2021, 
+https://www.ign.com/articles/become-a-video-game-developer-for-less-than-45-with-this-unity-training-bundle.
+
+Lassonde School of Engineering. Bachelor of Science (Bsc) Computer Science. Degree Checklist. 2019, https://lassonde.yorku.ca/wp-content/uploads/2019-20-Degree-Checklist-BSc-Computer-Sci-Revised.pdf. Accessed 18 February 2023.
+
+Lassonde School of Engineering. 2019, 
+https://lassonde.yorku.ca/electrical-engineering-computer-science-students-get-global-edge.
+
+Riyo Games. “Level Designer.” Indeed, https://ca.indeed.com/viewjob?jk=d15558bd4ecf6227&tk=1gp5klamaikdf801&from=serp&vjs=3. Accessed 18 February 2023.
+
+Scully, Ethan. “Best Games Made By One Person - The Top Video Games Created By a Single Developer.” Career Karma, 1 August 2020, https://careerkarma.com/blog/games-made-by-one-person/#minecraft. Accessed 18 February 2023.
+
+“What Does a Game Developer Do?” Codecademy, 2 November 2021, https://www.codecademy.com/resources/blog/what-does-a-game-developer-do/. Accessed 18 February 2023.
+
 
 
 
