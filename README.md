@@ -63,12 +63,17 @@ For game development jobs involving back-end coding, a bachelor in computer scie
 
 *Other Necessities*:
 - A minimum of 30 course credits gathered during the 4 year program
+- [**_Here_**](https://lassonde.yorku.ca/wp-content/uploads/2019-20-Degree-Checklist-BSc-Computer-Sci-Revised.pdf) is a course checklist with additional course requirements
 
 <br>
 
 *Program Length*:
 
 4 Years.
+
+<br>
+
+[**_Click Here_**](https://lassonde.yorku.ca/eecs/academics/undergraduate/future-students/computer-science-bsc-ba-ibsc-iba/#:~:text=Prerequisites%3A%20cumulative%20GPA%20of%204.50,%2C%20SC%2FCSE%202021%204.00.) for more information on York University's computer science program!
 
 <br>
 
@@ -82,11 +87,11 @@ Although university or college can teach students the techincal skills they'll r
 
 <br>
 
-Examples | In General... | In Game Development...
---- | --- | ---
-Co-op | Co-op allows students to participate in the workplace, despite a lack of skills. Many schools use their reputable co-op programs to grant students the opportunity to learn skills that they would not have gained through traditional schooling. Students in university are also paid for the work they perform in their jobs. | For a career in video game development, a co-op position can be beneficial, as many jobs require some level of experience. Although it may be difficult to find a co-op position for a video game project, there are many positions that allow people to harness their coding skills in other areas. For example, York University provides co-op in their computer science program. On their website, they advertise the connections formed and lessons learned through the experience. They also explain their different types of co-op, including entrepreneurial co-op, co-op for change, LURA & URSA, and international co-op.
-Social Clubs | Clubs bring people with similar interests and goals together. Whether it’s within schools, or outside of them, it’s always possible to find a group of people who share your passions. Surrounding yourself with like-minded people can teach you new concepts about the topic you love, let you develop stronger social and communicative skills, and even provide the chance to work on projects with a large group. | For a career in video game development, a club relating to computer science or coding video games can be beneficial. In these clubs, you can network and interact with other passionate people involved in computer science. Through this, you can not only strengthen your technical skills, but also enhance soft skills like leadership, organization and communication. One club for computer science can be found at York in their Computing Students Hub organization. They serve as a community for students involved in computer science at york. Such a community is beneficial for students to connect with new friends, and learn more about what they love.
-Personal Projects | Personal projects are completely unique and explorative. Without restrictions set by employers or programs, people can use personal projects to explore interests without risk of getting fired or receiving a poor grade. They can provide an excellent opportunity to practice independent or group work, discover new talents and interests, and devote time to an enjoyable activity. | For a career in video game development, personal projects can mean developing your own game! Games can take many forms, and a personal project lets people decide what type of game they may or may not like to make. As well, they give people technical experience that can help them further in their careers. Many video games began as personal projects. For instance, Minecraft was initially created by Markus “Notch” Persson in 2009. He was inspired by Infiniminer and Dwarf Fortress and decided to make his own game.
+Examples | In General... | In Game Development... | Link |
+--- | --- | --- | ---
+Co-op | Co-op allows students to participate in the workplace, despite a lack of skills. Many schools use their reputable co-op programs to grant students the opportunity to learn skills that they would not have gained through traditional schooling. Students in university are also paid for the work they perform in their jobs. | For a career in video game development, a co-op position can be beneficial, as many jobs require some level of experience. Although it may be difficult to find a co-op position for a video game project, there are many positions that allow people to harness their coding skills in other areas. For example, York University provides co-op in their computer science program. On their website, they advertise the connections formed and lessons learned through the experience. They also explain their different types of co-op, including entrepreneurial co-op, co-op for change, LURA & URSA, and international co-op. | [**_York Lassonde School Co-op_**](https://lassonde.yorku.ca/co-op/)
+Social Clubs | Clubs bring people with similar interests and goals together. Whether it’s within schools, or outside of them, it’s always possible to find a group of people who share your passions. Surrounding yourself with like-minded people can teach you new concepts about the topic you love, let you develop stronger social and communicative skills, and even provide the chance to work on projects with a large group. | For a career in video game development, a club relating to computer science or coding video games can be beneficial. In these clubs, you can network and interact with other passionate people involved in computer science. Through this, you can not only strengthen your technical skills, but also enhance soft skills like leadership, organization and communication. One club for computer science can be found at York in their Computing Students Hub organization. They serve as a community for students involved in computer science at york. Such a community is beneficial for students to connect with new friends, and learn more about what they love. | [**_Computing Students Hub_**](https://yorku.campuslabs.ca/engage/organization/cshub)
+Personal Projects | Personal projects are completely unique and explorative. Without restrictions set by employers or programs, people can use personal projects to explore interests without risk of getting fired or receiving a poor grade. They can provide an excellent opportunity to practice independent or group work, discover new talents and interests, and devote time to an enjoyable activity. | For a career in video game development, personal projects can mean developing your own game! Games can take many forms, and a personal project lets people decide what type of game they may or may not like to make. As well, they give people technical experience that can help them further in their careers. Many video games began as personal projects. For instance, Minecraft was initially created by Markus “Notch” Persson in 2009. He was inspired by Infiniminer and Dwarf Fortress and decided to make his own game. | [**_Personal Project Examples_**](https://careerkarma.com/blog/games-made-by-one-person/#minecraft)
 
 <br>
 
@@ -101,8 +106,8 @@ Video game developers can have a variety of positions based on experience, perso
 <br>
 
 1. **Entry Level**: 
-2. **Mid Level**: Level Designer (Riyo Games)
-3. **Senior Level**: Senior UX/UI Designer (Epic Games)
+2. **Mid Level**: [*Level Designer (Riyo Games)*](https://ca.indeed.com/viewjob?jk=d15558bd4ecf6227&tk=1gp5klamaikdf801&from=serp&vjs=3)
+3. **Senior Level**: [*Senior UX/UI Designer (Epic Games)*](https://ca.indeed.com/viewjob?jk=062caca2cadecb8b&q=Video+Game&l=Markham%2C+ON&tk=1gp5kiuc2k6ov801&from=web&advn=5099546768133909&adid=405334650&ad=-6NYlbfkN0DMU9iFguU_9_bt4kwzwKwXyis0ClZ46ztU40qnhw6SG0Os0eqyrd8co910IcfwiXWT4OKRu33184eyDWe2niHe7fDxIdg9BUFQdQJX_CFDbWiflKWdXxZWQ3TJqmK7UMQy3_dLmR_Mqh37Y-QLazFIIGil77wiarGRa2Aew2iGldZnOs8TEI8ruolp1m2bv5gfTYAdz2jfG0X0bTv67aWGXYCWDECKtVBlYfFpOpf56zFjdHDgnm-8bYcOVD0nC7SwwtEJOvc5Dr-2Q4pic_LriPXuslC4ZPIRRZIxq8g2DyXgoTcJO0ybzdA4tK3rCWnuZV1RmfP4CGZ-wgEAYFn5nE3ru7VVmW9hgD6j_hKn7WhtEHXf4yADm-5wv0ae9rRLiS9Il6ExYsktFJT6xfgguP3zZWJxk1Yw8gNgf2llrPEZxHAhjQFDKMNSnHZLbx8%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoAY-_M3TlhEFFxcCp0IbzkdCdPP&vjs=3)
 
 <br>
 
@@ -158,6 +163,7 @@ Toronto (Remote)
 <br>
 
 *Job Description*:
+
 “We are looking for an experienced Senior UI/UX Designer to work closely with our partner, Epic Games, to design their game stores. You need to keep up with the progress of modern Web technologies, learn new things as soon as they come, be proactive, and have an attitude and willingness to make things better using your knowledge, skills, curiosity and "spider-sense". You will be working in an engineering-oriented fast-paced environment, with minimal management and detailed task definition. You need to be a self-starter and excel at making your own decisions and organizing your work according to the declared goals. This is a remote (work-from-home) position.”
 
 <br>
