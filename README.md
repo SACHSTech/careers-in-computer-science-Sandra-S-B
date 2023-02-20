@@ -129,9 +129,47 @@ Video game developers can have a variety of positions based on experience, perso
 
 <br>
 
-1. **Entry Level**: 
+1. **Entry Level**: [*Software Engineer (Electronic Arts)*](https://ca.indeed.com/Internship-Software-Engineer-Co-Op-jobs?vjk=f4763ece0e1bdd48)
 2. **Mid Level**: [*Level Designer (Riyo Games)*](https://ca.indeed.com/viewjob?jk=d15558bd4ecf6227&tk=1gp5klamaikdf801&from=serp&vjs=3)
 3. **Senior Level**: [*Senior UX/UI Designer (Epic Games)*](https://ca.indeed.com/viewjob?jk=062caca2cadecb8b&q=Video+Game&l=Markham%2C+ON&tk=1gp5kiuc2k6ov801&from=web&advn=5099546768133909&adid=405334650&ad=-6NYlbfkN0DMU9iFguU_9_bt4kwzwKwXyis0ClZ46ztU40qnhw6SG0Os0eqyrd8co910IcfwiXWT4OKRu33184eyDWe2niHe7fDxIdg9BUFQdQJX_CFDbWiflKWdXxZWQ3TJqmK7UMQy3_dLmR_Mqh37Y-QLazFIIGil77wiarGRa2Aew2iGldZnOs8TEI8ruolp1m2bv5gfTYAdz2jfG0X0bTv67aWGXYCWDECKtVBlYfFpOpf56zFjdHDgnm-8bYcOVD0nC7SwwtEJOvc5Dr-2Q4pic_LriPXuslC4ZPIRRZIxq8g2DyXgoTcJO0ybzdA4tK3rCWnuZV1RmfP4CGZ-wgEAYFn5nE3ru7VVmW9hgD6j_hKn7WhtEHXf4yADm-5wv0ae9rRLiS9Il6ExYsktFJT6xfgguP3zZWJxk1Yw8gNgf2llrPEZxHAhjQFDKMNSnHZLbx8%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoAY-_M3TlhEFFxcCp0IbzkdCdPP&vjs=3)
+
+<br>
+
+>### Software Engineer (Internship)
+>##### Electronic Arts
+
+<br>
+
+*Salary*:
+
+$18.17/h
+
+<br>
+
+*City*:
+
+Vancouver, BC
+
+<br>
+
+*Job Description*:
+
+"Frostbite is EA's state-of-the-art multi-platform game development engine. Our global team provides technology to game teams within EA from multiple genres such as shooting, racing and action. By collaboration – between disciplines, genres and studios – the Frostbite team is pushing boundaries for what game developers can achieve. With a focus on efficient workflows and fast iteration times our innovation–driving outcomes allow game developers to create cutting edge games.
+
+We are looking for a dedicated, passionate and user-focused engineer who can help us develop our toolset for game content creation. You will join your colleagues in the Vancouver, BC area in a hybrid environment. Join us in driving the next revolution in games.
+
+As a Frostbite engineer, you will bring the development and tend to the stability and effectiveness of our tools, our content pipeline and the build process. You will work with diverse teams to ensure daily operations run smoothly and identify bottlenecks and future needs. You will require an independent mindset and a willingness to take responsibility over work content and quality."
+
+<br>
+
+*Additional Skills*:
+- Proficiency with C++ (preferred) or C#
+- Project experience in object-oriented design and implementation
+- Challenged yourself on advanced topics (operating systems, compilers, performance engineering, graphics)
+- Demonstrated expertise in technical areas including software engineering, distributed systems, UI, tools
+- Experience with game development is a big bonus
+- Excellent math skills
+- Demonstrated ownership for success of assigned tasks
 
 <br>
 
@@ -148,7 +186,7 @@ $63,118 - $79,921
 
 *City*:
 
-Toronto (Remote)
+Toronto, ON (Remote)
 
 <br>
 
@@ -182,7 +220,7 @@ $65,541 - $82,989
 
 *City*:
 
-Toronto (Remote)
+Toronto, ON (Remote)
 
 <br>
 
@@ -223,6 +261,10 @@ As a potential career, video game development appears rather limited for an indi
 “Computer Science (BSc) – OUInfo.” Ontario Universities' Info, https://www.ontariouniversitiesinfo.ca/programs/664. Accessed 18 February 2023.
 
 “Computing Students Hub - YU Connect.” Baseline - Campus Labs, https://yorku.campuslabs.ca/engage/organization/cshub. Accessed 18 February 2023.
+
+Electronic Arts Inc. “Summer 2023 Internship Software Engineer.” Indeed,
+https://ca.indeed.com/Internship-Software-Engineer-Co-Op-jobs?vjk=f4763ece0e1bdd48
+
 
 Georgijevic. 2022, 
 https://www.thebalancemoney.com/job-search-from-work-do-s-and-don-ts-2062153
