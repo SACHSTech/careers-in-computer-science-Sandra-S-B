@@ -3,7 +3,8 @@
 
 <br>
 
-![](https://cdnp3.stackassets.com/2c833d74376d62354ef8e100ad04f2185a7707dd/store/7a4a9dc97793a8a550d51e1b1e1812463af606f28651d425d2b589b3bbe6/sale_167082_article_image.jpg)
+<img src="https://cdnp3.stackassets.com/2c833d74376d62354ef8e100ad04f2185a7707dd/store/7a4a9dc97793a8a550d51e1b1e1812463af606f28651d425d2b589b3bbe6/sale_167082_article_image.jpg" width="90%">
+
 
 <br>
 
@@ -36,7 +37,7 @@ Game Developers also require a pleathora of skils to fulfill their duties.
 
 <br>
 
-![](https://lassonde.yorku.ca/wp-content/uploads/BC-4_0-scaled.jpg)
+<img src="https://lassonde.yorku.ca/wp-content/uploads/BC-4_0-scaled.jpg" width="90%">
 
 <br>
 
@@ -96,7 +97,7 @@ For game development jobs involving back-end coding, a bachelor in computer scie
 
 <br>
 
-![](https://www.grouponeit.com/wp-content/uploads/2022/02/pexels-fauxels-3182773.jpg)
+<img src="https://www.grouponeit.com/wp-content/uploads/2022/02/pexels-fauxels-3182773.jpg" width="90%">
 
 <br>
 
@@ -120,7 +121,7 @@ Personal Projects | Personal projects are completely unique and explorative. Wit
 
 <br>
 
-![](https://www.thebalancemoney.com/thmb/O5AZT4mYiA8oLU982RKu1hwAXos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-614421992-5bb4b837c9e77c002637a247.jpg)
+<img src="https://www.thebalancemoney.com/thmb/O5AZT4mYiA8oLU982RKu1hwAXos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-614421992-5bb4b837c9e77c002637a247.jpg" width="90%">
 
 <br>
 
